@@ -113,7 +113,7 @@ author:
       icon: "fas fa-fw fa-envelope-square"
       # url: mailto:your.name@email.com
       url: mailto:amandapaiva@msn.com
-    - label: #"Website"
+    - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "LinkedIn"  #"Website"
