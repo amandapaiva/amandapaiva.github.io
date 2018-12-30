@@ -112,10 +112,15 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: mailto:your.name@email.com
-      #url: mailto:amandapaiva@msn.com
+      url: mailto:amandapaiva@msn.com
     - label: LinkedIn #"Website"
       icon: "fas fa-fw fa-link"
       url: "https://www.linkedin.com/in/amandarpaiva"
+
+    - label: LinkedIn2 #"Website"
+      icon: "fab fa-linkedin-in"
+      url: "https://www.linkedin.com/in/amandarpaiva"
+
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
