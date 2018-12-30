@@ -106,7 +106,7 @@ author:
   name             : "Amanda Paiva"
   avatar           : "/images/bio_photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Enthusiast :)"
-  location         : "São Paulo"
+  location         : "Sao Paulo"
   email            : #"amandapaiva@msn.com"
   links:
     - label: "Email"
@@ -295,12 +295,13 @@ defaults:
 
 
 # _pages
-- scope:
-  path: ""
-    type: pages
-  values:
-    layout: single
-    author_profile: true
+#- scope:
+#  path: ""
+#    type: pages
+#  values:
+#    layout: single
+#    author_profile: true
+
 
 
 
