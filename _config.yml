@@ -116,7 +116,7 @@ author:
     - label: #"Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
-    - label: "LinkedIn #"Website"
+    - label: "LinkedIn"  #"Website"
       icon: "fab fa-linkedin-in"
       url: "https://www.linkedin.com/in/amandarpaiva"
     - label: "Twitter"
