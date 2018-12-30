@@ -3,14 +3,6 @@ main:
   - title: "Blog"
     url: /blog/
 
-  - title: "Publications"
-    url: /publications/
-
-#  - title: "Talks"
-#    url: /talks/
-
-#  - title: "Teaching"
-#    url: /teaching/
 
 #  - title: "Portfolio"
 #    url: /portfolio/
@@ -21,5 +13,3 @@ main:
 #  - title: "Guide"
 #    url: /markdown/
 
-  - title: "Career"
-    url: /career/
