@@ -106,22 +106,19 @@ author:
   name             : "Amanda Paiva"
   avatar           : "/images/bio_photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Enthusiast :)"
-  location         : "Sao Paulo"
+  location         : "São Paulo"
   email            : #"amandapaiva@msn.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: mailto:your.name@email.com
       url: mailto:amandapaiva@msn.com
-    - label: LinkedIn #"Website"
+    - label: #"Website"
       icon: "fas fa-fw fa-link"
-      url: "https://www.linkedin.com/in/amandarpaiva"
-
-    - label: LinkedIn2 #"Website"
+      # url: "https://your-website.com"
+    - label: "LinkedIn #"Website"
       icon: "fab fa-linkedin-in"
       url: "https://www.linkedin.com/in/amandarpaiva"
-
-      # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
